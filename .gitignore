@@ -1,0 +1,6 @@
+keys/
+out/
+platform-tools/
+*.log
+.DS_Store
+*.idsig

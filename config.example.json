@@ -1,0 +1,18 @@
+{
+  "anim": 1,
+  "zoom": 1.14,
+  "cols": 5,
+  "wallpaperMinutes": 5,
+  "orbs": false,
+  "ambientSeconds": 60,
+  "apps": [
+    "com.google.android.youtube.tv",
+    "top.rootu.lampa",
+    "com.netflix.ninja",
+    "com.kyivstar.tv.androidtv",
+    "com.megogo.application",
+    "com.android.vending",
+    "com.macpaw.clearvpn.android",
+    "com.android.tv.settings"
+  ]
+}
